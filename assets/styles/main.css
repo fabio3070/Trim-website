@@ -1,0 +1,51 @@
+@import url('header/header.css');
+@import url('home/body.css');
+@import url('fonts.css');
+
+/* variables */
+:root {
+    --primary-color: #F2F6F9;
+    --secondary-color: #04A4D8;
+    --text-title-color: #022A40;
+    --text-regular-color: #333;
+}
+
+.body {
+    margin: 0px auto;
+    background-color: var(--primary-color);
+}
+
+.logo {
+
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 20px;
+    margin: 0px;
+}
+
+p {
+    font-size: 16px;
+    margin: 0;
+}
+
+.m-1{
+    margin: 1rem 0;
+}
+
+.m-2{
+    margin: 2rem 0;
+}

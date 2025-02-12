@@ -1,0 +1,15 @@
+.space-grotesk-bold {
+    font-family: "Space Grotesk", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--text-title-color);
+}
+
+.space-grotesk-regular {
+    font-family: "Space Grotesk", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: var(--text-regular-color);
+}
