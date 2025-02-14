@@ -15,7 +15,6 @@
     margin-top: 15%;
     margin-left: 3rem;
     margin-right: 3rem;
-    max-width: 45rem;
 }
 
 .image-container {
@@ -71,5 +70,13 @@
 @media screen and (max-width: 768px) {
     .info-container{
         margin-top: 15%;
+    }
+
+    .download-buttons{
+        flex-direction: column;
+    }
+
+    .buttons-container{
+        align-items: center;
     }
 }
